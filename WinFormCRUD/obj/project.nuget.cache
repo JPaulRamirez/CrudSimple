@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "++vimel4NBPCux/L7qlg7sOPP8TqM0eI6Fz8C8pQrvRCdHTlZdaLCqydd+6TQCihMzFY1YD2smTb+x6zAbO4Ow==",
+  "dgSpecHash": "TAaNzLoHrqqK9ZSO52ENtjC8J8n6zBeKL8otCQu26YZIscrcxnmfCocj+djhBuqNpGOcmuU/Gtoql8pjIjLHDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Paul\\Desktop\\CRUD\\CRUD.WinForm\\WinFormCRUD\\WinFormCRUD.csproj",
+  "projectFilePath": "C:\\Users\\Paul\\Desktop\\CrudSimple\\CRUD.WinForm\\WinFormCRUD\\WinFormCRUD.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

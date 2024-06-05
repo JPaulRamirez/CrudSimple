@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mthAHCIhqdyCZX+UV9ALwtSDvv0Jc4e4Db2WM+uW1z6K6rqb97Fz5VgGhkPbFANswiJV+EHP8mbv7UZFxcD3/A==",
+  "dgSpecHash": "htibfzwG/ThZ3z+55DLF6vmIGU59ArVI2dpqBzgR919+XAC2v5KVMmyoF7TpKt8Tzb6mguUtgTe6pTY3ULKLwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Paul\\Desktop\\CRUD\\CRUD.WinForm\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\Paul\\Desktop\\CrudSimple\\CRUD.WinForm\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

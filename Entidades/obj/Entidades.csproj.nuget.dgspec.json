@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paul\\Desktop\\CRUD\\CRUD.WinForm\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\Paul\\Desktop\\CrudSimple\\CRUD.WinForm\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paul\\Desktop\\CRUD\\CRUD.WinForm\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Paul\\Desktop\\CrudSimple\\CRUD.WinForm\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paul\\Desktop\\CRUD\\CRUD.WinForm\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Paul\\Desktop\\CrudSimple\\CRUD.WinForm\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Paul\\Desktop\\CRUD\\CRUD.WinForm\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Paul\\Desktop\\CrudSimple\\CRUD.WinForm\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paul\\Desktop\\CRUD\\CRUD.WinForm\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Paul\\Desktop\\CrudSimple\\CRUD.WinForm\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",

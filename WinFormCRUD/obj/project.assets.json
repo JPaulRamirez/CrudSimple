@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paul\\Desktop\\CRUD\\CRUD.WinForm\\WinFormCRUD\\WinFormCRUD.csproj",
+      "projectUniqueName": "C:\\Users\\Paul\\Desktop\\CrudSimple\\CRUD.WinForm\\WinFormCRUD\\WinFormCRUD.csproj",
       "projectName": "WinFormCRUD",
-      "projectPath": "C:\\Users\\Paul\\Desktop\\CRUD\\CRUD.WinForm\\WinFormCRUD\\WinFormCRUD.csproj",
+      "projectPath": "C:\\Users\\Paul\\Desktop\\CrudSimple\\CRUD.WinForm\\WinFormCRUD\\WinFormCRUD.csproj",
       "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paul\\Desktop\\CRUD\\CRUD.WinForm\\WinFormCRUD\\obj\\",
+      "outputPath": "C:\\Users\\Paul\\Desktop\\CrudSimple\\CRUD.WinForm\\WinFormCRUD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Paul\\Desktop\\CRUD\\CRUD.WinForm\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Paul\\Desktop\\CRUD\\CRUD.WinForm\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Paul\\Desktop\\CrudSimple\\CRUD.WinForm\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Paul\\Desktop\\CrudSimple\\CRUD.WinForm\\Entidades\\Entidades.csproj"
             }
           }
         }
