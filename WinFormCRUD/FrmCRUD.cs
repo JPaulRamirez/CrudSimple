@@ -18,7 +18,7 @@ namespace WinFormCRUD
             this.productos = new List<Producto>();
 
         }
-        //PROBANDO GIT NUEVA RAMA
+        //PROBANDO GIT NUEVA RAMA 11 g
         // Metodo serializar la lista de productos a XML
         private void SerializarXML()
         {
