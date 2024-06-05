@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6HtU2YHT8/EAvQm4Wqt8qOPiUyDIg6039N5K1CnUiCcniqYavwBVT6F5lBTuvpIdY0seiYCOwEx3L98zIz5r0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paul\\source\\repos\\CRUD.WinForm\\FrmProducto\\FrmProducto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
